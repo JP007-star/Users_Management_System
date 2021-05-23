@@ -126,7 +126,7 @@ font-size: 10px;
       </div>
 
       <!-- Modal footer -->
-      <div class="modal-footer justify-content-between"  >
+      <div class="modal-footer justify-content-between">
        
         <button type="button" class="btn btn-danger pull-left" style="position:relative;margin-left:200px;" id="saveBtn">Save</button>
       </div>
